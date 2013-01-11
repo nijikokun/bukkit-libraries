@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="bukkit-1.4.5-R0.2" systemlibrary="false">
+        <archive javadoc="http://jd.bukkit.org/apidocs/" path="C:/Users/nijik_000/Downloads/Bukkit/Beta/bukkit-1.4.5-R0.2.jar" source="C:/Users/nijik_000/Downloads/Bukkit/Beta/Bukkit-1.4.5-R0.2.zip" source_encoding="UTF-8"/>
+    </library>
+</eclipse-userlibraries>
