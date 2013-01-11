@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <eclipse-userlibraries version="2">
     <library name="bukkit-1.4.6-R0.4" systemlibrary="false">
-        <archive javadoc="http://jd.bukkit.org/apidocs/" path="1.4.6/bukkit-1.4.6-R0.4.jar" source="1.4.6/Bukkit-1.4.6-R0.4.zip" source_encoding="UTF-8"/>
+        <archive javadoc="http://jd.bukkit.org/apidocs/" path="/Users/Nijikokun/git/1.4.6/bukkit-1.4.6-R0.4.jar" source="/Users/Nijikokun/git/1.4.6/Bukkit-1.4.6-R0.4.zip" source_encoding="UTF-8"/>
     </library>
 </eclipse-userlibraries>
